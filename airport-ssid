@@ -1,6 +1,7 @@
 #!/bin/sh
 #
-# airport-ssid: show the current OS X Wi-Fi Airport SSID
+# airport-ssid:
+# show the current OS X Wi-Fi Airport SSID
 #
 # Example:
 #
